@@ -7,3 +7,5 @@ U
 %tests/contractor-verification.test.ts,7/6/7616f848745012e2576985d4a1ac3c6aece4b76d
 S
 #tests/property-registration.test.ts,c/c/ccde1a447ae67f2e4048d93a2194cf68bd40219f
+T
+$contracts/property-registration.clar,b/b/bbedb9c1a2880c6c490d6467a8a9ed055406d8be
